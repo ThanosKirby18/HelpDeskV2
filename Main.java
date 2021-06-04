@@ -9,8 +9,8 @@ class Main
     Scanner keyboard2 = new Scanner (System.in);
     int num1, response;
     String report = " ";
-    boolean satisfied = false;
-
+    boolean satisfied = false; // var boolean
+    
     
     System.out.println("______________________________________________________________");
     System.out.println("|                                                            |");
